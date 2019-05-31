@@ -1,4 +1,4 @@
-/* 
+ 
 
 const { Listener } = require("discord-akairo");
 
@@ -12,4 +12,4 @@ module.exports = new Listener("reconnecting", exec, {
     type: "on"
 });
 
-*/
+
